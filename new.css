@@ -1,0 +1,36 @@
+.box{
+    margin-left: 142px;
+  }
+  .address{
+      margin-left:141px;
+  }
+  .zip{
+      margin-left: 121px;
+  }
+  .drop{
+      margin-left: 131px;
+  }
+  .radio{
+      margin-left: 139px;
+  }
+  .ph{
+      margin-left: 144px;
+  }
+  .email{
+      margin-left: 146px;
+  }
+  .pass{
+      margin-left: 30px;
+  }
+  .confi{
+      margin-left: 81px;
+  }
+  .check{
+     margin-left:111px ; 
+  }
+  .bt{
+    margin-left: 191px;  
+  }
+  .risk{
+      color: red;
+  }
